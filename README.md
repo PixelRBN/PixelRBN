@@ -1,6 +1,6 @@
 <h3 align="center">RBN</h3>
 <p align="left">
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&section=header&height=8"/>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&section=header&height=5"/>
 </p>
 
 
